@@ -24,7 +24,7 @@
 | --------------------- | ---------- | ----------- | ------------------- |
 | Auckland Control      | NZAA-R_CTR | 126.000 MHz | Traffic Management  |
 | Christchurch Director | NZCH-D_CTR | 129.200 MHz | Staff Only Position |
-| Auckland Finals       | NZAA-F_APP | 129.600 MHz | Traffic Management  |
+| Auckland Approach (Finals)  | NZAA-F_APP | 129.600 MHz | Traffic Management  |
 | Auckland Departures   | NZAA_DEP   | 118.000 MHz | Traffic Management  |
 
 ---
@@ -52,7 +52,7 @@ Tower is to assign northbound VFR departures the MANGERE BRIDGE departure. As fl
 Arrivals  - once vacated the runway
 
 IFR Departures - once airborne.
-VFR Departures - once vacated your CTA.
+VFR Departures - once vacated your CTR.
 
 #### Control should be relinquished
 
@@ -60,7 +60,7 @@ Departures - airborne, unless otherwise coordinated
 
 Arrivals on a straight-in approach - at LENGU or EMRAG
 
-Arrivals on a visual approach  - by 15 AA DME
+Arrivals on a visual approach  - prior to entering the CTR or at ESNAX, ATAMA, UDUMO, NOKIT, ESNAX. Whichever is earlier
 
 Arrivals on an RNP approach, not straight-in - at ATAMA or NIPAS (RWY05R), ESNAX, ESMON, TEGIK, or TUSLO (RWY23L).
 
@@ -78,20 +78,22 @@ Ground uses positive control to ensure that no other aircraft passes directly be
 
 ### Transfer of Communication
 
-Once Auckland Ground has issued all necessary instructions to the pilot, they advise the pilot to monitor Auckland Tower on `118.700 MHz`.
+Once Auckland Ground has issued all necessary instructions to the pilot, they advise the pilot to contact Auckland Tower on `118.700 MHz`. 
 
 ### Use of Holding Points
 
 | Type        | Runway 23L | Runway 05R |
 | ----------- | :--------: | :--------: |
 | Large Jets  |  A1 / A1A  |    A10     |
-| Medium Jets |  A2 / A3   |     A9     |
-| Turboprops  |  A3 / A3A  |     A9     |
+| Medium Jets |  A2 / A1   |     A9     |
+| Turboprops  |  A3A / A2  |     A9     |
 
 
 Auckland Ground may assign the following reduced length holding points for departure without the approval of the pilot ("medium" refers to the wake turbulence category). 
 
 Note that `A3` and `A8` holds are not used because pilots cannot visually check the approaches are clear before entering the runway.
+
+For sequencing or wake turblence purposes Auckland Ground may assign domestic turboprops/jets different holding points to what is stated above. Ground may assign holding points A1A, A1, and A2 where they see necessary. But should refer to the above as standard practice in low levels of traffic. 
 
 ---
 
